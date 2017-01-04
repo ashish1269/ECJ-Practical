@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+
+<student>
+<enrol-no>00911804414</enrol-no>
+<name>Ashish Tomer</name>
+<email>ashish1269@gmail.com</email>
+<course>MCA</course>
+<subjects>
+<subject>DCN</subject>
+<subject>Java</subject>
+<subject>C</subject>
+<subject>Computer Graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>02011804414</enrol-no>
+<name>Aman Jha</name>
+<email>amanjha@gmail.com</email>
+<course>MCA</course>
+<subjects>
+<subject>Java</subject>
+<subject>Theory of Computation</subject>
+<subject>C</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>00911804414</enrol-no>
+<name>Ashish Tomer</name>
+<email>ashish1269@gmail.com</email>
+<course>MCA</course>
+<subjects>
+<subject>DCN</subject>
+<subject>Java</subject>
+<subject>C</subject>
+<subject>Computer Graphics</subject>
+</subjects>
+</student>
+</students>

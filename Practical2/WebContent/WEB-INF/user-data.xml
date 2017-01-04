@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user-data>
+
+<student>
+<name>Ashish Tomer</name>
+<uname>ashish1269</uname>
+<email>ashish1269@gmail.com</email>
+<pass>ashish1269</pass>
+<sex>male</sex>
+<address>sonepat</address>
+<contact>9876543210</contact>
+<alt-contact>9867542310</alt-contact>
+<edu-10>67</edu-10>
+<edu-12>78</edu-12>
+<edu-bach>89</edu-bach>
+<edu-mast>90</edu-mast>
+<utype>student</utype>
+</student>
+</user-data>

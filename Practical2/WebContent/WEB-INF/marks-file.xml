@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<marks>
+
+
+<student-marks>
+<enrol-no>00911</enrol-no>
+<name>AshishTomer</name>
+<course>mca</course>
+<subject name="dcn">89</subject>
+<subject name="java">74</subject>
+<subject name="c">61</subject>
+</student-marks>
+</marks>

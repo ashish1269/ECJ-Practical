@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+<!--
+
+*********** A demo record ***********
+
+<student>
+	<enrol-no></enrol-no>
+	<name></name>
+	<email></email>
+	<course></course>
+	<subjects>
+		<subject></subject>
+		<subject></subject>
+		<subject></subject>
+		<subject></subject>
+		<subject></subject>
+	</subjects>
+</student>
+
+-->
+
+<student>
+<enrol-no>00911</enrol-no>
+<name>AshishTomer</name>
+<email>ashish@gma.com</email>
+<course>mca</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>c</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>01111804414</enrol-no>
+<name>KaranBhola</name>
+<email>karan@gma.com</email>
+<course>mca</course>
+<subjects>
+<subject>java</subject>
+<subject>theory of computation</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>4456422</enrol-no>
+<name>VijayVats</name>
+<email>vijat@yahoo.in</email>
+<course>M.Tech.</course>
+<subjects>
+<subject>dcn</subject>
+<subject>theory of computation</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>12345</enrol-no>
+<name>Vijay</name>
+<email>vijay@gmail.com</email>
+<course>M.Tech.</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>theory of computation</subject>
+<subject>c</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>9876</enrol-no>
+<name>PrashantKumar</name>
+<email>pk.1234@yahoo.com</email>
+<course>M.Tech.</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>theory of computation</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>4567</enrol-no>
+<name>Bhushan</name>
+<email>bhushan34@yahoo.com</email>
+<course>M.Tech.</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>theory of computation</subject>
+<subject>c</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>345678</enrol-no>
+<name>Heemanshi</name>
+<email>heema9shi@yahoo.com</email>
+<course>M.Tech.</course>
+<subjects>
+<subject>dcn</subject>
+<subject>c</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>099990</enrol-no>
+<name>Kalpana</name>
+<email>kalpi4678@yahoo.com</email>
+<course>mca</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>theory of computation</subject>
+<subject>c</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>2039</enrol-no>
+<name>Nivika</name>
+<email>nivika2039@yahoo.com</email>
+<course>mca</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>c</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>1399</enrol-no>
+<name>Ghazal</name>
+<email>zeneb.neer@bigface.com</email>
+<course>mca</course>
+<subjects>
+<subject>dcn</subject>
+<subject>c</subject>
+<subject>computer graphics</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>11</enrol-no>
+<name>bhumika</name>
+<email>abhu@g.an</email>
+<course>mca</course>
+<subjects>
+<subject>dcn</subject>
+<subject>java</subject>
+<subject>theory of computation</subject>
+</subjects>
+</student>
+<student>
+<enrol-no>05911804414</enrol-no>
+<name>VijayMishra</name>
+<email>vijayM@rediff.com</email>
+<course>mca</course>
+<subjects>
+<subject>java</subject>
+<subject>theory of computation</subject>
+<subject>c</subject>
+</subjects>
+</student>
+</students>

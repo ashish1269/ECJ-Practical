@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+
+<student>
+<uname>ashish1269</uname>
+<pass>ashish1269</pass>
+</student>
+<student>
+<uname>amanjha</uname>
+<pass>amanjha1234</pass>
+</student>
+<faculty>
+<uname>aparnar1234</uname>
+<pass>aparnar1234</pass>
+</faculty>
+<faculty>
+<uname>aparnar1234</uname>
+<pass>aparnar1234</pass>
+</faculty>
+</users>

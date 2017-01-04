@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user-data>
+
+<student>
+<name>Ashish Tomer</name>
+<uname>ashish1269</uname>
+<email>ashish1269@gmail.com</email>
+<pass>ashish1269</pass>
+<sex>male</sex>
+<address>Sonepat</address>
+<contact>9953066295</contact>
+<alt-contact>9458762031</alt-contact>
+<edu-10>68</edu-10>
+<edu-12>74</edu-12>
+<edu-bach>85</edu-bach>
+<edu-mast>75</edu-mast>
+<utype>student</utype>
+</student>
+<student>
+<name>Aman Jha</name>
+<uname>amanjha</uname>
+<email>amanjha@gmail.com</email>
+<pass>amanjha1234</pass>
+<sex>male</sex>
+<address>Bihar</address>
+<contact>9856495888</contact>
+<alt-contact>9537264967</alt-contact>
+<edu-10>89</edu-10>
+<edu-12>78</edu-12>
+<edu-bach>68</edu-bach>
+<edu-mast>75</edu-mast>
+<utype>student</utype>
+</student>
+<student>
+<name>Aparna Rama Murthy</name>
+<uname>aparnar1234</uname>
+<email>aparnar1234@gmail.com</email>
+<pass>aparnar1234</pass>
+<sex>female</sex>
+<address>Noida</address>
+<contact>8936475892</contact>
+<alt-contact>96392856</alt-contact>
+<edu-10>89</edu-10>
+<edu-12>88</edu-12>
+<edu-bach>82</edu-bach>
+<edu-mast>77</edu-mast>
+<utype>faculty</utype>
+</student>
+<student>
+<name>Aparna Rama Murthy</name>
+<uname>aparnar1234</uname>
+<email>aparnar1234@gmail.com</email>
+<pass>aparnar1234</pass>
+<sex>female</sex>
+<address>Noida</address>
+<contact>8936475892</contact>
+<alt-contact>96392856</alt-contact>
+<edu-10>89</edu-10>
+<edu-12>88</edu-12>
+<edu-bach>82</edu-bach>
+<edu-mast>77</edu-mast>
+<utype>faculty</utype>
+</student>
+</user-data>

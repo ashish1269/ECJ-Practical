@@ -1,0 +1,16 @@
+>>USER<<
+
+create table user(user_name varchar(25) primary key, full_name varchar(30) not null, email varchar(30) not null, sex char(1) not null check(sex='m' or sex='f'),  address varchar(200) not null,  contact integer(12) not null,  alt_contact integer(12) not null, education10 float(6,3) not null,  education12 float(6,3) not null, education_grad float(6,3) not null,  education_mast float(6,3) not null, user_type char(1) not null check(user_type='s' or user_type='f'));
+
+
+>>LOGIN<<
+
+create table login(user_name varchar(25) not null primary key references user(user_name), password varchar(25) not null references user(password));
+
+>>COURSE<<
+
+create table course( enroll_no integer(15) not null primary key, user_name varchar(25) not null unique references user(user_name), course_name varchar(15) not null, subject1 varchar(15) not null, subject2 varchar(15) not null, subject3 varchar(15) not null, subject4 varchar(15), subject5 varchar(15));
+
+>>MARKS<<
+
+create table marks(enroll_no integer(15) not null primary key references course(enroll_no),subject1 varchar(15) not null, subject2 varchar(15) not null, subject3 varchar(15) not null, subject4 varchar(15), subject5 varchar(15));

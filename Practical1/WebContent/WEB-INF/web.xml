@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>Practical1</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <display-name>question1</display-name>
+    <servlet-name>question1</servlet-name>
+    <servlet-class>org.ashish.question1.Question1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>question1</servlet-name>
+    <url-pattern>/give-vowel-position</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <display-name>question2</display-name>
+    <servlet-name>question2</servlet-name>
+    <servlet-class>org.ashish.question2.Question2</servlet-class>
+  </servlet>
+  <servlet>
+    <display-name>question3</display-name>
+    <servlet-name>question3</servlet-name>
+    <servlet-class>org.ashish.question3.Question3</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>question2</servlet-name>
+    <url-pattern>/total-number-of-holidays</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>question3</servlet-name>
+    <url-pattern>/number-grid</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<marks>
+
+<student-marks>
+<enrol-no>00911804414</enrol-no>
+<name>Ashish Tomer</name>
+<course>MCA</course>
+<subject name="DCN">89</subject>
+<subject name="Java">67</subject>
+<subject name="C">93</subject>
+<subject name="Computer Graphics">83</subject>
+</student-marks>
+<student-marks>
+<enrol-no>02011804414</enrol-no>
+<name>Aman Jha</name>
+<course>MCA</course>
+<subject name="Java">89</subject>
+<subject name="Theory of Computation">86</subject>
+<subject name="C">95</subject>
+</student-marks>
+</marks>
